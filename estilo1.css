@@ -1,0 +1,53 @@
+#capa1{
+
+position:fixed;
+left:400px;
+top:40px;
+
+}
+
+#capa2{
+
+position:fixed;
+left:420px;
+top:210px;
+
+}
+
+#capa3{
+
+position:fixed;
+left:175px;
+top:270px;
+
+
+
+
+}
+
+#capa4{
+
+position:fixed;
+left:440px;
+top:500px;
+
+
+
+}
+
+input{
+
+border: black 1px solid;
+padding: 20px 40px;
+text-decoration: none;
+background-color:#0857A8;
+color: white;
+
+}
+
+body{
+
+background-color: #08A80B;
+
+
+}
